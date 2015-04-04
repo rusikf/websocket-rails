@@ -45,6 +45,9 @@ just about any browser with Flash sockets.
 * [Reloading Controllers In Development](https://github.com/websocket-rails/websocket-rails/wiki/Reloading-Controllers-In-Development)
 * [Multiple Servers and Background Jobs](https://github.com/websocket-rails/websocket-rails/wiki/Multiple-Servers-and-Background-Jobs)
 * [Standalone Server Mode](https://github.com/websocket-rails/websocket-rails/wiki/Standalone-Server-Mode)
+* [Configuration](https://github.com/websocket-rails/websocket-rails/wiki/Configuration)
+* [Testing WebsocketRails Controllers](https://github.com/websocket-rails/websocket-rails/wiki/Testing-WebsocketRails-Controllers)
+* [Filtering Channel Events](https://github.com/websocket-rails/websocket-rails/wiki/Filtering-Channel-Events)
 
 ## Handle Events With Class
 
